@@ -1,14 +1,14 @@
-#Creational
+-----Creational-----
 1. Singleton
 2. FactoryMethod
 3. AbstratctFactory
 
-#Structual
+-----Structual-----
 4. Decorator
 5. Adapter
 6. Facade
 
-#Behavioral
+-----Behavioral-----
 7. Observal
 8. State
 9. Strategy
