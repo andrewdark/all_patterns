@@ -1,6 +1,6 @@
 public class SingletonOnDemandHolder {
 
-    public SingletonOnDemandHolder() {
+    private SingletonOnDemandHolder() {
     }
 
     public static class SingletonHolder {
